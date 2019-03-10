@@ -48,11 +48,17 @@ Some notes :
 UPDATE 9/3/19
 
 compatible with High Sierra and Mjojave latest beta
+
 updated kexts to latest verion
+
 updated clover to latest version
+
 improved acpi hotpatch as on real mac
+
 removed ssdt-pnlf , added intelbacklight as per whatevergreen guide
+
 Patch intel uh620 for hdmi audio
+
 Unchecked plygintype so working without HWP. Battery percentage is now accurate (before it was 5-6%off compared to cocounut battery and bios). CPU management and battery consumption seems the same. If you prefer you can enable it again.
 
 notes :
