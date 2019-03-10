@@ -66,6 +66,7 @@ latest voodooi2c kexts not working well. Using a modified version.
 
 
 Working hard to keep this project alive and up to date. If you feel like it you can buy me a beer :
-Δωρεά
- www.paypal.com www.paypal.com
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AUQFM3DPPEEEC&source=url
+
+
 Please , comment about how's this working for your system. There is room for perfection, with your help.
