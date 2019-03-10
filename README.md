@@ -64,6 +64,11 @@ Unchecked plygintype so working without HWP. Battery percentage is now accurate 
 notes :
 latest voodooi2c kexts not working well. Using a modified version.
 
+TO DO List :
+
+a) Add credits to all that helped me.
+b) Add bios guide patch for DVMT-prealloc and GPIO touchpad.
+
 
 Working hard to keep this project alive and up to date. If you feel like it you can buy me a beer :
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AUQFM3DPPEEEC&source=url
