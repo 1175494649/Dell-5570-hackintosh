@@ -4,21 +4,36 @@ MacOs High Sierra and Mojave on Dell 5570
 
 
 Specs : Dell inspiron 5570 (Inspiron 15 5000series) , with :
+
 Cpu : intel i5-8250u at 1.6ghz (Kabylake-r)
+
 Gpu : Intel uhd620
+
 Ram : 8gb ddr4 2400ghz
+
 Hard disk : I replaced the standard hd with a Samsung 860 evo and I added a Samsung 860evo at m2 slot
+
 Wifi/bt : Factory qualcomm won't work. I replaced it with a Broadcomm 94352z card
+
 Fingerpring sensor : Won't work with mac, so I disabled it.
+
 Card reader : I don't need it , so I disabled it from bios.
 
+
 What is working : Pretty much everything...
+
 CPU management : native cpu management at High Sierra (see note 1) and Mojave with smbios 15,2.
+
 Battery managment : getting 4,5-5 hours , with browsing , music and office editing. Better that windows 10 !!!
+
 Audio : working great including headphones.
+
 Sleep/wake : lid close / open working as it should . Laptop sleeps overnight with 3-4% battery lost.
+
 Precision touchpad : working close to a real mac , with almost all gestures (see note 4).
+
 Brighness / volume control : fn + F1,F2,F3,F4 for volume , fn+F11,F12 for display brighness.
+
 Camera : ok
 
 
@@ -64,10 +79,11 @@ Unchecked plygintype so working without HWP. Battery percentage is now accurate 
 notes :
 latest voodooi2c kexts not working well. Using a modified version.
 
+
 TO DO List :
 
-a) Add credits to all that helped me.
-b) Add bios guide patch for DVMT-prealloc and GPIO touchpad.
+
+1) Add bios guide patch for DVMT-prealloc and GPIO touchpad.
 
 
 Working hard to keep this project alive and up to date. If you feel like it you can buy me a beer :
@@ -75,3 +91,19 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AUQFM3DPPEE
 
 
 Please , comment about how's this working for your system. There is room for perfection, with your help.
+
+
+
+CREDITS
+
+Thanks to stevezhengshiqi  for guide of Xiaomi-Pro.
+
+Thanks to vit9696/Acidanthera for providing AppleALC, Lilu,  VirtualSMC, and WhateverGreen.
+
+Thanks to alexandred and hieplpvip for VoodooI2C.
+
+Especially , 
+Thanks to RehabMan for guiding me all the way. Without his help this guide wouldn't be possible.
+
+
+
