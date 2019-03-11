@@ -20,6 +20,7 @@ Fingerpring sensor : Won't work with mac, so I disabled it.
 Card reader : I don't need it , so I disabled it from bios.
 
 
+
 What is working : Pretty much everything...
 
 CPU management : native cpu management at High Sierra (see note 1) and Mojave with smbios 15,2.
@@ -37,8 +38,10 @@ Brighness / volume control : fn + F1,F2,F3,F4 for volume , fn+F11,F12 for displa
 Camera : ok
 
 
+
 What we need :
 I will not get into details. You can read the great guides at forum for getting a usb installer for HS or Mojave. Just make sure to replace clover with attached one.
+
 
 Some notes :
 
@@ -60,6 +63,7 @@ Some notes :
 
 
 
+
 UPDATE 9/3/19
 
 compatible with High Sierra and Mjojave latest beta
@@ -76,14 +80,17 @@ Patch intel uh620 for hdmi audio
 
 Unchecked plygintype so working without HWP. Battery percentage is now accurate (before it was 5-6%off compared to cocounut battery and bios). CPU management and battery consumption seems the same. If you prefer you can enable it again.
 
+
 notes :
 latest voodooi2c kexts not working well. Using a modified version.
+
 
 
 TO DO List :
 
 
 1) Add bios guide patch for DVMT-prealloc and GPIO touchpad.
+
 
 
 Working hard to keep this project alive and up to date. If you feel like it you can buy me a beer :
